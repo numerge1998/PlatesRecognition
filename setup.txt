@@ -1,0 +1,13 @@
+Setup de python (3.8.2)
+
+tesseract-ocr-w64-setup-v5.0.0.20190623 de pe 
+https://digi.bib.uni-mannheim.de/tesseract/
+
+pip install pytesseract
+pip install opencv-python
+
+
+
+Link-uri
+https://nanonets.com/blog/ocr-with-tesseract/
+https://digi.bib.uni-mannheim.de/tesseract/

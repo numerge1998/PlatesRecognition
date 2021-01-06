@@ -1,0 +1,13 @@
+﻿  OpenCVApplication.cpp
+e:\an3\sem2\pi\proiect\opencvapplication-vs2015_ocv31_basic\opencvapplication.cpp(113): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+e:\an3\sem2\pi\proiect\opencvapplication-vs2015_ocv31_basic\opencvapplication.cpp(113): warning C4313: 'printf': '%d' in format string conflicts with argument 1 of type 'int *'
+e:\an3\sem2\pi\proiect\opencvapplication-vs2015_ocv31_basic\opencvapplication.cpp(113): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'int *'
+e:\an3\sem2\pi\proiect\opencvapplication-vs2015_ocv31_basic\opencvapplication.cpp(113): warning C4313: 'printf': '%d' in format string conflicts with argument 2 of type 'int *'
+e:\an3\sem2\pi\proiect\opencvapplication-vs2015_ocv31_basic\opencvapplication.cpp(113): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 3 has type 'int *'
+e:\an3\sem2\pi\proiect\opencvapplication-vs2015_ocv31_basic\opencvapplication.cpp(113): warning C4313: 'printf': '%d' in format string conflicts with argument 3 of type 'int *'
+e:\an3\sem2\pi\proiect\opencvapplication-vs2015_ocv31_basic\opencvapplication.cpp(113): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 4 has type 'int *'
+e:\an3\sem2\pi\proiect\opencvapplication-vs2015_ocv31_basic\opencvapplication.cpp(113): warning C4313: 'printf': '%d' in format string conflicts with argument 4 of type 'int *'
+  OpenCVApplication.vcxproj -> E:\an3\sem2\PI\proiect\OpenCVApplication-VS2015_OCV31_basic\x64\Debug\OpenCVApplication.exe
+  OpenCV\dll\Debug\opencv_ffmpeg310_64.dll
+  OpenCV\dll\Debug\opencv_world310d.dll
+          2 file(s) copied.
